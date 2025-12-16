@@ -3,7 +3,7 @@ import { Search, Phone, ChevronDown, Instagram, Mail } from "lucide-react";
 export default function Navbar() {
   return (
     <>
-      <nav className="bg-gray-900 shadow-lg fixed w-full top-0 z-50 backdrop-blur-md">
+      <nav className="bg-gray-900 shadow-lg w-full top-0 z-50 backdrop-blur-md">
         <div className="container mx-auto px-4 sm:px-8 lg:px-12 flex justify-between items-center h-35">
           {/* Logo Section */}
           <div className="flex items-center space-x-3">
