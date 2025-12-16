@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="pt-38 pb-16 px-4 relative bg-cover bg-center bg-no-repeat"
+      className="pt-28 pb-16 px-4 relative bg-cover bg-center bg-no-repeat"
       style={{
         backgroundImage: `url('https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1920&q=80')`,
       }}
